@@ -1,0 +1,7 @@
+{
+  "input": "Hello, can you summarize today's agenda?",
+  "conversation_id": "demo-conversation",
+  "metadata": {
+    "source": "local-sample"
+  }
+}
